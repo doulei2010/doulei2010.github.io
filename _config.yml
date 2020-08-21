@@ -2,12 +2,12 @@
 title: 窦磊的个人博客
 SEOTitle: 窦磊blog - 窦磊的个人博客 - 记录一些优质软件、日志、学习编程的过程等
 header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
+email: 2695377747@qq.com
 description: "记录一些优质软件、日志、学习编程的过程等"
 keyword: "优质,软件,日志,学习,编程,过程,窦磊,博客,blog"
-url: "https://klovien.github.io"          # your host, for absolute URL
+url: "https://doulei2010.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/doulei2010/doulei2010.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "三叶草国际语维基词典",
-        href: "https://github.com/klovien/klovien.github.io/wiki"
+        title: "github",
+        href: "https://github.com/doulei2010"
     },{
-        title: "三叶草国际语互动社区",
-        href: "https://klovien.fandom.com/wiki/Klovien_Interlingua"
+        title: "gitee",
+        href: "https://gitee.com/doulei"
     },{
-        title: "知乎：人造国际语",
-        href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
+        title: "知乎",
+        href: "https://www.zhihu.com/people/doulei-94"
     },{
-        title: "知乎：Henri_Jambo",
-        href: "https://www.zhihu.com/people/henry-jiang-78" 
+        title: "微信：D2695377747",
+        href: "#" 
     }
 ]
